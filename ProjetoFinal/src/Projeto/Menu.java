@@ -27,6 +27,7 @@ public class Menu {
 
 	public void menuPrincipal() {
 		Vendedores vendedor = new Vendedores();
+		Login login = new Login();
 		System.out.println("##########################################");
 		System.out.println("Olá, seja bem-vindo a Farmácia CUBO      #");
 		System.out.println("Se você já nosso cliente, digite: 1      #");
